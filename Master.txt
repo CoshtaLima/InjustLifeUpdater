@@ -1,4 +1,3 @@
 
-<Version: 1.03> 
-/data/Map044.json https://raw.githubusercontent.com/CoshtaLima/InjustLifeUpdater/master/Map044.json
+<Version: 1.02> 
 <End of Version>
