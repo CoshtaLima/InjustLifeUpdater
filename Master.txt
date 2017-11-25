@@ -1,4 +1,4 @@
 
 <Version: 1.02> 
-/js/plugins/https://raw.githubusercontent.com/GuilhermeSantos001/TrainChemin/master/SRD_AutoUpdater.js 
+/js/plugins/SRD_AutoUpdater.js https://raw.githubusercontent.com/GuilhermeSantos001/TrainChemin/master/SRD_AutoUpdater.js 
 <End of Version>
