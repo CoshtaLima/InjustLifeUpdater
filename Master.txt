@@ -1,1 +1,4 @@
 
+<Version: 1.02> 
+/data/InjustLifeBETA.zip https://shinegames499544353.wordpress.com/
+<End of Version>
